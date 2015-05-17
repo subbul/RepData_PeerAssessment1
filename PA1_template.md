@@ -1,3 +1,9 @@
+title: "Reproducible Research: Peer Assessment 1"
+output: 
+  html_document:
+    keep_md: true
+    self_contained: false
+
 
  Reproducible Research: Peer Assessment 1
 -----------------------------------------
